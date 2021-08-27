@@ -2,4 +2,5 @@ hello java 2 hot-fix1
 hello hadoop
 hello scala
 hello spark
+hello git
 
