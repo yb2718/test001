@@ -1,4 +1,4 @@
-hello java 3
+hello java merge1
 hello hadoop
 hello scala
 hello spark
